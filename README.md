@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div  align="center">
-¡Bienvenido al repositorio del Curso de Visión por Computador! 
+¡Bienvenido al repositorio del Curso de Machine Learning! 
   
 Aquí encontrarás notebooks y ejercicios prácticos desarrollados durante las clases de Machine Learning del programa de Ingeniería Electrónica en la Universidad Surcolombiana. Cada notebook aborda diferentes temas y técnicas, ofreciendo ejemplos prácticos y explicaciones paso a paso para ayudarte a fortalecer tus conocimientos en procesamiento y análisis de datos. 
 
